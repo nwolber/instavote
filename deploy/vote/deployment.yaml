@@ -5,6 +5,7 @@ metadata:
   labels:
     app: vote
     tier: front
+    app: xyz
   name: vote
 spec:
   replicas: 2
